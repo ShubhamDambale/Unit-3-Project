@@ -1,0 +1,79 @@
+#container{
+    width: 60%;
+     display: grid;
+     grid-template-columns: repeat(4, 1fr);
+     gap: 20px;
+     margin: auto;
+     margin-top: 20px;
+     
+   }
+ 
+   /* #extra_div{
+       display: flex;
+       justify-content: space-around;
+       background-color: #1b5ab0;
+       box-sizing: border-box;
+       
+   } */
+
+   .img_div{
+    width: 200px;
+   }
+ 
+   .prices_div{
+       text-align: center;
+   }
+ 
+   .names_div{
+     text-align: center;
+     font-family: "Work Sans";
+     font-size: 14px;
+     font-weight: bold;
+ }
+
+ .news_div{
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 14px;
+    font-weight: bold;
+    background-color:red;
+    color: white;
+    
+}
+ 
+ /* .emis_div{
+     background-color: #1b5ab0;
+       box-sizing: border-box;
+       color: white;
+       
+ }
+ 
+ 
+ .smarts_div{
+     background-color: 
+     #fa5755;
+       box-sizing: border-box;
+       color: white;
+ } */
+ 
+ .buttons_div{
+     width: 100%;
+     height: 35px;
+     border: none;
+     background-color: white;
+     cursor: pointer;
+ }
+ 
+ .buttons_div:hover{
+     background-color: black;
+     color: white;
+ }
+
+
+ #sorter{
+    margin-left: 80px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+ }

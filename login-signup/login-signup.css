@@ -1,0 +1,95 @@
+*{
+    background-color: #fcefe9;
+}
+
+#main_div{
+    width: 450px;
+    height: 600px;
+    background-color: white;
+    margin: auto;
+   
+}
+
+#div_first{
+    width: 450px;
+    height: 250px;
+    background-color: white;
+    /* margin-left: 100px; */
+}
+
+
+#div_first > img{
+    width: 320px;
+    height: 200px;
+  /* margin-left: 80px; */
+  background-color: white;
+  /* margin: auto; */
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+#div_second{
+    width: 450px;
+    height: 200px;
+    background-color: white;
+    /* margin-left: 100px; */
+}
+
+
+#div_second > h2 {
+    margin-left: 100px;
+    background-color: white;
+}
+
+.btn1{
+    margin-left: 70px;
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    gap: 5px;
+    border-color: #d4d5d9;
+}
+
+
+.btn2{
+    margin-left: 10px;
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    gap: 5px;
+    border-color: #d4d5d9;
+}
+
+.btn3{
+    margin-top: 10px;
+    margin-left: 69px;
+    background-color: white;
+    width: 315px;
+    height: 40px;
+    gap: 5px;
+    border-color: #d4d5d9;
+}
+
+
+
+/* HR TAG */
+hr{
+    margin-top: 17px;
+    color: #d4d5d9;
+}
+
+#div_second > .second_h2{
+    margin-left: 140px;
+}
+
+
+.btn4{
+    margin-top: 10px;
+    margin-left: 69px;
+    background-color: white;
+    width: 315px;
+    height: 40px;
+    gap: 5px;
+    border-color: #d4d5d9;
+}
+
